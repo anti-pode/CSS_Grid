@@ -1,2 +1,2 @@
 # CSS_Grid
-My project using CSS Grid / Мой проект с использованием CSS Grid
+My first project using CSS Grid on Git / Мой первый проект с использованием CSS Grid на Git
